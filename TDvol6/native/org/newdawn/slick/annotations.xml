@@ -1,0 +1,5 @@
+<root>
+    <item name='org.newdawn.slick.SlickException'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>

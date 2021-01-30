@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.2" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="32" tileheight="32" infinite="0" nextobjectid="11">
+ <tileset firstgid="1" source="towerDefense_tilesheet.tsx"/>
+ <layer name="Path" width="10" height="10">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACmNgoC5gJICLGYk3hxx1IPOx2YeuDhefWupg7kD3LyF/AQDhs9+ZkAEAAA==
+  </data>
+ </layer>
+ <layer name="Grass" width="10" height="10">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACotnYGCIpyImBhBrDjnqcNmHTR02PjXVYfMvIX8BACqvZmuQAQAA
+  </data>
+ </layer>
+</map>

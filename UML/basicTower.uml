@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="145.5892857142857" y="918.0">Game.GameState</node>
+    <node x="214.5178571428571" y="0.0">Towers.BasicTower</node>
+    <node x="0.0" y="266.0">Towers.Tower</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Game.GameState" target="Towers.BasicTower">
+      <point x="138.0" y="-136.0" />
+      <point x="467.58928571428567" y="898.0" />
+      <point x="400.5" y="898.0" />
+      <point x="86.14285714285714" y="103.0" />
+    </edge>
+    <edge source="Towers.Tower" target="Towers.BasicTower">
+      <point x="-46.0" y="-301.0" />
+      <point x="138.0" y="236.0" />
+      <point x="257.58928571428567" y="236.0" />
+      <point x="-57.42857142857143" y="103.0" />
+    </edge>
+    <edge source="Game.GameState" target="Towers.Tower">
+      <point x="-138.0" y="-136.0" />
+      <point x="191.5892857142857" y="898.0" />
+      <point x="184.0" y="898.0" />
+      <point x="0.0" y="301.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="0.5" />
+  <SelectedNodes>
+    <node>Towers.BasicTower</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>packageLocal</VISIBILITY>
+</Diagram>
+
